@@ -12,5 +12,5 @@
 
 ## <a name="Z"> </a>Z
 
-- [Zamtel SMS ](https://github.com/Mathewsmusukuma/yorlang) - Zamtel bulk SMS API. You can use this library in your Python project **By [@sikaili99](https://linkedin.com/in/sikaili99)**
+- [Zamtel SMS ](https://github.com/Mathewsmusukuma/zamtel-sms) - Zamtel bulk SMS API. You can use this library in your Python project **By [@sikaili99](https://linkedin.com/in/sikaili99)**
 
